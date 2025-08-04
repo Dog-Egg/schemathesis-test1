@@ -1,0 +1,3 @@
+flask
+pytest
+schemathesis==4.0.19
